@@ -1,4 +1,4 @@
- #Automated Business Intelligence (BI) Report Generator using CrewAI
+ # Automated Business Intelligence (BI) Report Generator using CrewAI
 
 ![CrewAI](https://img.shields.io/badge/CrewAI-Agentic_AI-blue?style=for-the-badge)
 ![Groq](https://img.shields.io/badge/Groq-LLaMA_3.3_70B-orange?style=for-the-badge)
